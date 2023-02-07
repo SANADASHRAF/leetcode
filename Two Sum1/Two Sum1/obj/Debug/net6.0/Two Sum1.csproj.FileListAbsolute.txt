@@ -1,0 +1,15 @@
+E:\problem solving\Two Sum1\Two Sum1\bin\Debug\net6.0\Two Sum1.exe
+E:\problem solving\Two Sum1\Two Sum1\bin\Debug\net6.0\Two Sum1.deps.json
+E:\problem solving\Two Sum1\Two Sum1\bin\Debug\net6.0\Two Sum1.runtimeconfig.json
+E:\problem solving\Two Sum1\Two Sum1\bin\Debug\net6.0\Two Sum1.dll
+E:\problem solving\Two Sum1\Two Sum1\bin\Debug\net6.0\Two Sum1.pdb
+E:\problem solving\Two Sum1\Two Sum1\obj\Debug\net6.0\Two Sum1.csproj.AssemblyReference.cache
+E:\problem solving\Two Sum1\Two Sum1\obj\Debug\net6.0\Two Sum1.GeneratedMSBuildEditorConfig.editorconfig
+E:\problem solving\Two Sum1\Two Sum1\obj\Debug\net6.0\Two Sum1.AssemblyInfoInputs.cache
+E:\problem solving\Two Sum1\Two Sum1\obj\Debug\net6.0\Two Sum1.AssemblyInfo.cs
+E:\problem solving\Two Sum1\Two Sum1\obj\Debug\net6.0\Two Sum1.csproj.CoreCompileInputs.cache
+E:\problem solving\Two Sum1\Two Sum1\obj\Debug\net6.0\Two Sum1.dll
+E:\problem solving\Two Sum1\Two Sum1\obj\Debug\net6.0\refint\Two Sum1.dll
+E:\problem solving\Two Sum1\Two Sum1\obj\Debug\net6.0\Two Sum1.pdb
+E:\problem solving\Two Sum1\Two Sum1\obj\Debug\net6.0\Two Sum1.genruntimeconfig.cache
+E:\problem solving\Two Sum1\Two Sum1\obj\Debug\net6.0\ref\Two Sum1.dll
