@@ -1,3 +1,4 @@
+>>>>>سمعت(sorted array)يبقى (binary search)
 dictionary 
  >>cities["key"]
  >>var cities = new Dictionary<string, string>(){  {},{},{} };
