@@ -1,0 +1,15 @@
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\bin\Debug\net6.0\Palindrome Number.exe
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\bin\Debug\net6.0\Palindrome Number.deps.json
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\bin\Debug\net6.0\Palindrome Number.runtimeconfig.json
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\bin\Debug\net6.0\Palindrome Number.dll
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\bin\Debug\net6.0\Palindrome Number.pdb
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.csproj.AssemblyReference.cache
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.AssemblyInfoInputs.cache
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.AssemblyInfo.cs
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.csproj.CoreCompileInputs.cache
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.dll
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\obj\Debug\net6.0\refint\Palindrome Number.dll
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.pdb
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\obj\Debug\net6.0\Palindrome Number.genruntimeconfig.cache
+E:\Problem solving\100-problems-leetcode-challenge\Palindrome Number\Palindrome Number\obj\Debug\net6.0\ref\Palindrome Number.dll
