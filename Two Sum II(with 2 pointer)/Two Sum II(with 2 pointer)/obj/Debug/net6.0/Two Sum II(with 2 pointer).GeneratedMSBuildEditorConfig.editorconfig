@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Two_Sum_II_with_2_pointer_
+build_property.ProjectDir = E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\

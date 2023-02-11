@@ -5,7 +5,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
     public class Program
     {
 
-        public static bool IsPalindrome(int x)
+        public  bool IsPalindrome(int x)
         {
             var y=x.ToString();
             y.Reverse();
@@ -15,7 +15,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
         static void Main(string[] args)
         {
             
-            Console.WriteLine(Program.IsPalindrome(121));
+            Console.WriteLine();
         }
     }
 }
