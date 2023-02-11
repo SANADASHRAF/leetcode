@@ -1,0 +1,15 @@
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\bin\Debug\net6.0\Two Sum II(with 2 pointer).exe
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\bin\Debug\net6.0\Two Sum II(with 2 pointer).deps.json
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\bin\Debug\net6.0\Two Sum II(with 2 pointer).runtimeconfig.json
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\bin\Debug\net6.0\Two Sum II(with 2 pointer).dll
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\bin\Debug\net6.0\Two Sum II(with 2 pointer).pdb
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\obj\Debug\net6.0\Two Sum II(with 2 pointer).csproj.AssemblyReference.cache
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\obj\Debug\net6.0\Two Sum II(with 2 pointer).GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\obj\Debug\net6.0\Two Sum II(with 2 pointer).AssemblyInfoInputs.cache
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\obj\Debug\net6.0\Two Sum II(with 2 pointer).AssemblyInfo.cs
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\obj\Debug\net6.0\Two Sum II(with 2 pointer).csproj.CoreCompileInputs.cache
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\obj\Debug\net6.0\Two Sum II(with 2 pointer).dll
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\obj\Debug\net6.0\refint\Two Sum II(with 2 pointer).dll
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\obj\Debug\net6.0\Two Sum II(with 2 pointer).pdb
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\obj\Debug\net6.0\Two Sum II(with 2 pointer).genruntimeconfig.cache
+E:\Problem solving\100-problems-leetcode-challenge\Two Sum II(with 2 pointer)\Two Sum II(with 2 pointer)\obj\Debug\net6.0\ref\Two Sum II(with 2 pointer).dll
