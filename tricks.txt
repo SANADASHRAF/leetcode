@@ -1,5 +1,6 @@
->>>>>سمعت(sorted array)يبقى (binary search)
-dictionary 
+1>>>>>>>>>>>>>>>>>>سمعت(sorted array)يبقى (binary search)
+______________________________________________________________________
+2>>>>>>>>>>>>>>>>>dictionary 
  >>cities["key"]
  >>var cities = new Dictionary<string, string>(){  {},{},{} };
  >>if(cities.ContainsKey("France")){ }
@@ -8,3 +9,13 @@ dictionary
  >>IDictionary<int, string> numberNames = new Dictionary<int, string>();
  >>numberNames.Add(1,"One");
  
+___________________________________________________
+>>>>>>>>>>>>string 
+{          
+str.indexof('h', 3,4) (لو عايز تدور على استرنج جوا استرنج ويرجعلك بادئ من ايندكس كام , او تدور على حرف جوا استرينج , والارقام دى اختيارية فهى البداية والنهاية )
+char.isLeterOrDigit('s'),(لو عايز تعرف الحرف رقم او حرف بحيث عايز تشيل المسافات والعلامات وهكذا)
+string.isempityOrWhiteSpace(str)
+
+
+
+}
