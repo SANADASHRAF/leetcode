@@ -16,7 +16,8 @@ namespace MyApp
 
         static void Main(string[] args)
         {
-            Console.WriteLine(Program.ReverseWords("the   sky is blue"));
+            
+            Console.WriteLine(Program.ReverseWords("the sky   is blue"));
            
         }
     }
